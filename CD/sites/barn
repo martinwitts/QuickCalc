@@ -1,0 +1,18 @@
+Site name : BARN
+------------------------------------------------------------
+Ze = 0.28 ohms
+PFC = 3.2 KA
+------------------------------------------------------------
+lights up
+------------------------------------------------------------
+Finished Cable size = 1.5 mm
+Zs = 0.9444ohms (max for device = 4.37)
+Reference method = 100#
+Voltage Drop = 6.3888v at 2.77773913043478 %
+Design current Ib = 10 amps
+Length = 22 metres
+In = 10 A
+Device Type = B 
+Use :(Lighting 1, Other 2) = 1
+(Radial 1, Ring 2) = 1
+------------------------------------------------------------

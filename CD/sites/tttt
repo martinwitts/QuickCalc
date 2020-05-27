@@ -1,0 +1,18 @@
+Site name : TTTT
+------------------------------------------------------------
+Ze = 0.28 ohms
+PFC = 3.2 KA
+------------------------------------------------------------
+ggg
+------------------------------------------------------------
+Finished Cable size = 2.5 mm
+Zs = 0.68971ohms (max for device = 1.748)
+Reference method = 100#
+Voltage Drop = 7.848036v at 3.41218956521739 %
+Design current Ib = 21 amps
+Length = 21 metres
+In = 25 A
+Device Type = B 
+Use :(Lighting 1, Other 2) = 2
+(Radial 1, Ring 2) = 1
+------------------------------------------------------------

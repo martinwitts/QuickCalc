@@ -1,0 +1,18 @@
+Site name : TEST
+------------------------------------------------------------
+Ze = 0.28 ohms
+PFC = 3.2 KA
+------------------------------------------------------------
+test
+------------------------------------------------------------
+Finished Cable size = 6 mm
+Zs = 0.51078ohms (max for device = 1.365625)
+Reference method = 102#
+Voltage Drop = 5.203968v at 2.2625947826087 %
+Design current Ib = 32 amps
+Length = 22 metres
+In = 32 A
+Device Type = B 
+Use :(Lighting 1, Other 2) = 2
+(Radial 1, Ring 2) = 1
+------------------------------------------------------------
